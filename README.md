@@ -13,30 +13,9 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,androidstudio,mysql,python,tensorflow,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,androidstudio,mysql,python,,git,github" />
 </p>
 
----
-
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Profile details" />
-</p>
-
----
-
-### 🌍 3D Contribution Graph
-<p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 <p align="center">
@@ -60,8 +39,4 @@
 
 ---
 
-### ✨ Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/zaini459/count.svg" />
-</p>
 
